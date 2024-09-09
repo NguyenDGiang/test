@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjGHPCJp0wA=",
+  "success": false,
+  "projectFilePath": "D:\\test\\Web.API1\\Web.API1\\Web.API1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'Web.API1': Invalid framework identifier ''."
+    }
+  ]
+}
