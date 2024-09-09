@@ -1,0 +1,3 @@
+[submodule "New folder/testa"]
+	path = New folder/testa
+	url = https://github.com/NguyenDGiang/testa.git
